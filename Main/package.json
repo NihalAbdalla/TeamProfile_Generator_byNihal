@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "This is to create a team profile generator for assigment OOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihalAbdalla/TeamProfile_Generator_byNihal.git"
+  },
+  "author": "Nihal Abdalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihalAbdalla/TeamProfile_Generator_byNihal/issues"
+  },
+  "homepage": "https://github.com/NihalAbdalla/TeamProfile_Generator_byNihal#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.6"
+  }
+}
