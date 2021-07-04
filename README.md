@@ -1,5 +1,7 @@
 # TeamProfile_Generator_byNihal
 
+since i can't record heres is the Walkthrough i did for the assigment 'step-by'step'
+
 Start with Opening the create the Main folder and package json steps as follow, initials starting with:
 
     package name: (main)
