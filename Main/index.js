@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const path = require("path");
-const htmlTeamFilePath = './dist/Team.html'
+const teamHTMLfilepath = './dist/Team.html'
 //import classes 
 var Manager = require("./lib/Manager");
 var Engineer = require("./lib/Engineer");
@@ -152,5 +152,9 @@ var teamIds = [];
         else {
             return "";
 }}}
+
+function teamHTMLfilepath(){
+    fs.writeFileSync(teamHTMLfilepath, "");
+};
 
 
