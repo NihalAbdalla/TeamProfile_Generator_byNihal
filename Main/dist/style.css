@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #ae9b98;
+}
+
+html,
+body {
+  height: 100vh;
+  overflow: hidden;
+  background-color: #937a76;
+}
+h5 {
+  font-weight: bold;
+  font-size: 1.4rem;
+  font-family: "Akaya Telivigala", cursive;
+}
+
+h7 {
+  font-size: 1.2rem;
+  font-family: "Akaya Telivigala", cursive;
+  text-decoration: underline;
+  display: flex;
+}
+
+.col {
+  padding: 10px;
+  margin: 0.05rem 0.05rem 0 0;
+  box-shadow: 15px 10px 10px;
+}

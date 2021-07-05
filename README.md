@@ -38,3 +38,22 @@ Start with Opening the create the Main folder and package json steps as follow, 
 Install an NPM external module: npm install jest from [Jest](https://www.npmjs.com/package/jest)
 
 aslo npm install inquirer [Inquirer](https://www.npmjs.com/package/inquirer)
+
+Create a directory as follows:
+
+```md
+**tests**/ // jest tests
+Employee.test.js
+Engineer.test.js
+Intern.test.js
+Manager.test.js
+dist/ // rendered output (HTML) and CSS style sheet
+lib/ // classes
+src/ // template helper code
+index.js // runs the application
+```
+
+Add inquirer Q&A structure index.js
+
+installed bootstrap by running npm install bootstrap
+installed fontAwesome by running npm install --save @fortawesome/fontawesome-free
