@@ -57,3 +57,7 @@ Add inquirer Q&A structure index.js
 
 installed bootstrap by running npm install bootstrap
 installed fontAwesome by running npm install --save @fortawesome/fontawesome-free
+
+create team.html and style css
+
+create constructor lib file for employee.js, engineer.js, intern.js, and manager.js
